@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Deusto_Sneaker:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Deusto_Sneaker</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="SavingMessagesJDOREST-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Deusto_Sneaker:war exploded" />
+    </root>
+  </artifact>
+</component>
